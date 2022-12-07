@@ -1,1 +1,1 @@
-# effective-winner
+# data-structures-and-algorithms
